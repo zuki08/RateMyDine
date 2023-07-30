@@ -8,8 +8,6 @@ $ npm install
 $ npm run dev
 ```
 
-Append 4/25: you also need to run a fetch("/allReviews") one to construct the dining hall and comment database for it to display properly
-
 **Team Overview** </br>
 | <center>Name</center> | <center>GitHub Username</center> |
 | --- | --- |
@@ -51,6 +49,9 @@ Website Logistics
     - Comment tiles with like/dislike buttons for other users to interact with
     - Small section above comments featuring the most viewed photos, top rated comments, etc.
 - MongoDB back end: Stores login information, dining hall ratings, food ratings, comments, comment ratings, images, etc.
+
+**Video Showcase:**
+[Click Here!](https://youtu.be/wruJSZfq97k)
 
 **License** </br>
 [MIT License] (https://opensource.org/license/mit/)
